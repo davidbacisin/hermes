@@ -1,2 +1,2 @@
-# hermes
-Simple but extensible telemetry for Go
+# Hermes
+Simple, extensible telemetry for Go with sensible defaults
