@@ -1,0 +1,4 @@
+recursive: true
+with-expecter: true
+output: ./internal/mocks
+name: ^SpanProcessor$
